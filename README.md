@@ -16,12 +16,10 @@ Solutions for the iOS / Swift training exercises, Topics 2 to 12. Each file cove
 | Topic11_GenericsAndErrors.swift | Generics and Error Handling |
 | Topic12_IntegratedProgramming.swift | Integrated Swift Programming |
 
-Written answers (compiler errors, predictions, explanations) are in NOTES.md.
+
 
 ## Run
 
 ```
 swift Topic02_VariablesAndConstants.swift
 ```
-
-Or paste a file into an Xcode Playground.
